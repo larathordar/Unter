@@ -37,5 +37,3 @@ module Unter
     generate.system_tests false
   end
 end
-  end
-end
